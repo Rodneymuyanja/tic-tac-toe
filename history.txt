@@ -1,0 +1,215 @@
+  -   |  -   |  -   |
+  -   |  x   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  x   |  x   |
+  -   |  -   |  o   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  x   |
+  -   |  -   |  -   |
+  -   |  o   |  -   |
+  -   |  x   |  x   |
+  x   |  -   |  -   |
+  -   |  o   |  -   |
+  o   |  x   |  x   |
+  x   |  -   |  x   |
+  -   |  o   |  -   |
+  o   |  x   |  x   |
+  x   |  o   |  x   |
+  -   |  o   |  x   |
+  o   |  x   |  x   |
+..........winy and kimono's game..........  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  x   |
+..........winy and kimono's game..........  -   |  -   |  -   |
+  -   |  o   |  -   |
+  -   |  x   |  x   |
+..........uri and winy's game..........
+  x   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........uri and winy's game..........
+  x   |  -   |  -   |
+  x   |  -   |  -   |
+  -   |  o   |  -   |
+..........winy and rodney's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........winy and rodney's game..........
+  -   |  -   |  -   |
+  -   |  x   |  -   |
+  -   |  -   |  -   |
+..........winy and rodney's game..........
+  -   |  -   |  -   |
+  -   |  x   |  -   |
+  o   |  -   |  -   |
+..........winy and rodney's game..........
+  -   |  x   |  -   |
+  -   |  x   |  -   |
+  o   |  -   |  -   |
+..........winy and rodney's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  o   |  -   |  -   |
+..........winy and rodney's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  o   |  x   |  -   |
+..........isabella and rodney's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and rodney's game..........
+  -   |  -   |  -   |
+  -   |  -   |  x   |
+  -   |  -   |  -   |
+..........isabella and rodney's game..........
+  o   |  -   |  -   |
+  -   |  -   |  x   |
+  -   |  -   |  -   |
+..........isabella and rodney's game..........
+  o   |  -   |  -   |
+  -   |  -   |  x   |
+  -   |  x   |  -   |
+..........isabella and rodney's game..........
+  o   |  -   |  -   |
+  -   |  -   |  x   |
+  -   |  x   |  o   |
+..........isabella and rodney's game..........
+  o   |  -   |  -   |
+  -   |  -   |  x   |
+  x   |  x   |  o   |
+..........isabella and rodney's game..........
+  o   |  -   |  -   |
+  o   |  -   |  x   |
+  x   |  x   |  o   |
+..........isabella and rodney's game..........
+  o   |  -   |  -   |
+  o   |  x   |  x   |
+  x   |  x   |  o   |
+..........isabella and rodney's game..........
+  o   |  -   |  o   |
+  o   |  x   |  x   |
+  x   |  x   |  o   |
+..........red and cone's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........red and cone's game..........
+  -   |  -   |  -   |
+  -   |  x   |  -   |
+  x   |  -   |  -   |
+..........red and rey's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........red and rey's game..........
+  x   |  -   |  -   |
+  x   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and justine's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and justine's game..........
+  -   |  x   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  x   |
+..........isabella and justine's game..........
+  o   |  x   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  x   |
+..........isabella and red's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and red's game..........
+  -   |  -   |  -   |
+  -   |  x   |  -   |
+  -   |  -   |  x   |
+..........isabella and red's game..........
+  -   |  -   |  -   |
+  -   |  x   |  -   |
+  o   |  -   |  x   |
+..........ref and der's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........ref and der's game..........
+  x   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........ref and der's game..........
+  x   |  -   |  -   |
+  -   |  o   |  -   |
+  -   |  -   |  -   |
+..........ref and der's game..........
+  x   |  -   |  -   |
+  x   |  o   |  -   |
+  -   |  -   |  -   |
+..........ref and der's game..........
+  x   |  -   |  -   |
+  x   |  o   |  -   |
+  -   |  -   |  o   |
+..........isabella and herz's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and herz's game..........
+  x   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  x   |  o   |
+..........isabella and herz's game..........
+  x   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  x   |  o   |
+..........isabella and hertz's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and hertz's game..........
+  o   |  x   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and hertz's game..........
+  o   |  x   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........isabella and hertz's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  -   |  -   |  o   |
+..........isabella and hertz's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  -   |  -   |  o   |
+..........nu and nun's game..........
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........nu and nun's game..........
+  o   |  x   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........nu and nun's game..........
+  o   |  x   |  -   |
+  -   |  -   |  -   |
+  -   |  -   |  -   |
+..........nu and nun's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  -   |  -   |  o   |
+..........nu and nun's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  -   |  -   |  o   |
+..........nu and nun's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  o   |  x   |  o   |
+..........nu and nun's game..........
+  o   |  x   |  -   |
+  -   |  x   |  -   |
+  o   |  x   |  o   |
